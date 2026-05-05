@@ -1,4 +1,4 @@
-console.log("dom")
+console.log("forntend file")
 
 
 function getRand(arr) {
